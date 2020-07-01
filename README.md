@@ -120,7 +120,7 @@
 <td style="vertical-align:top;"><img src="images/qieding_map.jpg"/></td>
 </tr>
 <tr>
-<td style="text-align:center;">較舊的地圖但明確的標出茄萣區內的四大區域跟四個主廟</td><td style="text-align:center;">區公所內的區域圖</td>
+<td style="text-align:center;">舊版地圖：上頭標出了四個主廟位置</td><td style="text-align:center;">區公所內的區域圖</td>
 </tr>
 </table>
 
