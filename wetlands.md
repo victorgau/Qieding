@@ -10,8 +10,8 @@
 
 <table>
 <tr>
-<td style="vertical-align: text-bottom;"><img src="images/jd_wetland_01.png" alt="茄萣濕地位置圖" width="400" height="400"/></td>
-<td style="vertical-align: text-bottom;"><img src="images/jd_wetland_02.png" alt="茄萣濕地放大圖" width="400" height="400"/></td>
+<td style="vertical-align: text-bottom;"><img src="images/jd_wetland_01.png" alt="茄萣濕地位置圖" /></td>
+<td style="vertical-align: text-bottom;"><img src="images/jd_wetland_02.png" alt="茄萣濕地放大圖" /></td>
 </tr>
 <tr>
 <td style="text-align:left;">圖一、上圖黑線標示的範圍為茄萣區，茄萣濕地位於茄萣區的中心點。</td><td style="text-align:left;">圖二、茄萣濕地放大圖。中間被1-1道路劃過，切斷了南邊的水源供給。</td>
