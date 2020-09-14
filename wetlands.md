@@ -86,7 +86,7 @@
 2.	[技術報告 4.14: 1-4號道路暨茄萣濕地相關開發計畫之影響評估-茄萣經濟發展之策略計劃](https://savespoonbills.files.wordpress.com/2016/10/jiading_save-report-2014.pdf)
 3.	[國家重要濕地保育計畫 – 濕地的功能](https://wetland-tw.tcd.gov.tw/edu/Features.php)
 4.	邱文彥, 海洋與海岸管理, 五南出版社, 2017
-5.	[溼地環境資料庫](https://wetland-db.tcd.gov.tw/#/wetlandGuidePage)
+5.	[濕地環境資料庫](https://wetland-db.tcd.gov.tw/#/wetlandGuidePage)
 6.	[茄萣1-4道路工程開闢 生態浩劫與經濟發展 兩難！](https://www.peopo.org/news/343107)
 7.	[來不及成為國寶？茄定濕地具有國際潛力 卻拿來當馬路？](https://www.newsmarket.com.tw/blog/87688/)
 8.	[【茄萣濕地 美麗與哀愁】華視新聞雜誌 2016.09.30](https://www.youtube.com/watch?v=SGleCdiMZCI)
@@ -112,24 +112,17 @@
 
 其他連結：(刪除重複連結中...)
 
-* [濕地環境資料庫](https://wetland-db.tcd.gov.tw/)
 * [內政部營建署 - 濕地保育法](https://www.cpami.gov.tw/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/%E6%B3%95%E8%A6%8F%E5%85%AC%E5%91%8A/16504-%E6%BF%95%E5%9C%B0%E4%BF%9D%E8%82%B2%E6%B3%95.html)
 * [台灣濕地網](https://wetland.e-info.org.tw/)
 * [台灣濕地學會](http://www.wet.org.tw/)
-* 海洋與海岸管理 - 邱文彥
 * 為濕地注入活水, 科學人2014年4月號, p80。
 * [林務局自然保育網](https://conservation.forest.gov.tw/)
 * [98 西部海岸地區溼地生態園區規劃評估計畫.pdf](https://conservation.forest.gov.tw/File.aspx?fno=63439)
 * [台灣濕地研究現況與未來發展 - 臺灣國家公園](file:///C:/Users/victor/Downloads/332_c58eef7a6d9faef5274919ac33ab8e8e.pdf)
 * [eBird](https://ebird.org/home)
 * [eBird - 高雄茄萣濕地](https://ebird.org/hotspot/L3409331)
-* [技術報告 4.14: 1-4號道路暨茄萣濕地相關開發計畫之影響評估-茄萣經濟發展之策略計劃](https://savespoonbills.files.wordpress.com/2016/10/jiading_save-report-2014.pdf)
 * [高雄市野鳥協會](http://www.kwbs.org.tw/web/)
 * [台灣濕地環境之永續管理](http://ir.nou.edu.tw/bitstream/987654321/817/3/B0903.pdf)
-* [民間版茄萣暫定重要濕地分析報告書_推薦評定為國家級濕地.pdf](https://www.cet-taiwan.org/sites/cet-taiwan.org/files/%E9%99%84%E4%BB%B6%E4%B8%80%E3%80%81%E6%B0%91%E9%96%93%E7%89%88%E8%8C%84%E8%90%A3%E6%9A%AB%E5%AE%9A%E9%87%8D%E8%A6%81%E6%BF%95%E5%9C%B0%E5%88%86%E6%9E%90%E5%A0%B1%E5%91%8A%E6%9B%B8_%E6%8E%A8%E8%96%A6%E8%A9%95%E5%AE%9A%E7%82%BA%E5%9C%8B%E5%AE%B6%E7%B4%9A%E6%BF%95%E5%9C%B0.pdf)
-* [茄萣暫定重要濕地分析報告書](https://www.cet-taiwan.org/sites/cet-taiwan.org/files/%E9%99%84%E4%BB%B6%E4%B8%80%E3%80%81%E6%B0%91%E9%96%93%E7%89%88%E8%8C%84%E8%90%A3%E6%9A%AB%E5%AE%9A%E9%87%8D%E8%A6%81%E6%BF%95%E5%9C%B0%E5%88%86%E6%9E%90%E5%A0%B1%E5%91%8A%E6%9B%B8_%E6%8E%A8%E8%96%A6%E8%A9%95%E5%AE%9A%E7%82%BA%E5%9C%8B%E5%AE%B6%E7%B4%9A%E6%BF%95%E5%9C%B0.pdf)
-* [【茄萣濕地 美麗與哀愁】華視新聞雜誌 2016.09.30](https://www.youtube.com/watch?v=SGleCdiMZCI)
-* [105年茄萣暫定重要濕地分析報告書 (草案)](https://wetland-tw.tcd.gov.tw/upload/file/20190606153958560.pdf)
 * [維基百科 – 茄萣濕地](https://zh.wikipedia.org/wiki/%E8%8C%84%E8%90%A3%E6%BF%95%E5%9C%B0)
 * [高雄市政府工務局濕地廊道 – 茄萣濕地](https://pwbgis.kcg.gov.tw/wetland/WetLand.aspx?Cond=a009d492-b888-443e-8f22-27b00fafa83a)
 * [台灣濕地網 – 茄萣濕地](https://wetland.e-info.org.tw/file/south/2330)
