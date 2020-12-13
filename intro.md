@@ -122,7 +122,7 @@
 <td style="vertical-align:top;"><img src="images/qieding_map.jpg"/></td>
 </tr>
 <tr>
-<td style="text-align:center;">舊版地圖：上頭標出了四個主廟位置</td><td style="text-align:center;">區公所內的區域圖</td>
+<td style="text-align:center;">舊版地圖：上頭標出了四個主廟位置(圖形取自網路)</td><td style="text-align:center;">區公所內的區域圖(圖形取自網路)</td>
 </tr>
 </table>
 
@@ -135,7 +135,7 @@
 <td><img src="images/festival.jpg" alt="茄萣王船祭" width="400" /></td>
 </tr>
 <tr>
-<td style="text-align:center;">茄萣王船祭</td>
+<td style="text-align:center;">茄萣王船祭(圖形取自網路)</td>
 </tr>
 </table>
 
@@ -150,7 +150,7 @@
 <td><img src="images/culture.png" alt="茄萣藝陣之考察" width="400" /></td>
 </tr>
 <tr>
-<td style="text-align:center;">茄萣藝陣之考察</td>
+<td style="text-align:center;">茄萣藝陣之考察(圖形取自網路)</td>
 </tr>
 </table>
 
@@ -173,7 +173,7 @@
 <td><img src="images/wetlands_01.jpg" alt="白砂崙濕地彈塗魚復育" width="400" /></td>
 </tr>
 <tr>
-<td style="text-align:center;">白砂崙濕地彈塗魚復育</td>
+<td style="text-align:center;">白砂崙濕地彈塗魚復育(圖形取自網路)</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@
 <td><img src="images/wetlands_02.jpg" alt="茄萣濕地黑面琵鷺" width="400" /></td>
 </tr>
 <tr>
-<td style="text-align:center;">茄萣濕地黑面琵鷺</td>
+<td style="text-align:center;">茄萣濕地黑面琵鷺(圖形取自網路)</td>
 </tr>
 </table>
 
@@ -199,7 +199,7 @@
 <td><img src="images/wetlands_03.jpg" alt="茄萣濕地1-4號道路爭議" width="400" /></td>
 </tr>
 <tr>
-<td style="text-align:center;">茄萣濕地1-4號道路爭議</td>
+<td style="text-align:center;">茄萣濕地1-4號道路爭議(圖形取自網路)</td>
 </tr>
 </table>
 
@@ -214,7 +214,7 @@
 <td><img src="images/tour_01.jpg" alt="興達港觀光漁市" width="400" /></td>
 </tr>
 <tr>
-<td style="text-align:center;">興達港觀光漁市</td>
+<td style="text-align:center;">興達港觀光漁市(圖形取自網路)</td>
 </tr>
 </table>
 
@@ -227,7 +227,7 @@
 <td><img src="images/tour_02.jpg" alt="蟯港(古名堯港)夕陽" width="400" /></td>
 </tr>
 <tr>
-<td style="text-align:center;">蟯港(古名堯港)夕陽</td>
+<td style="text-align:center;">蟯港(古名堯港)夕陽(圖形取自網路)</td>
 </tr>
 </table>
 
@@ -241,7 +241,7 @@
 <td><img src="images/tour_03.jpg" alt="情人碼頭" width="400" /></td>
 </tr>
 <tr>
-<td style="text-align:center;">情人碼頭</td>
+<td style="text-align:center;">情人碼頭(圖形取自網路)</td>
 </tr>
 </table>
 
@@ -252,7 +252,7 @@
 <td><img src="images/tour_04.jpg" alt="情人碼頭夜景" width="400" /></td>
 </tr>
 <tr>
-<td style="text-align:center;">情人碼頭夜景</td>
+<td style="text-align:center;">情人碼頭夜景(圖形取自網路)</td>
 </tr>
 </table>
 
@@ -265,7 +265,7 @@
 <td><img src="images/tour_05.jpg" alt="郭常喜兵器博物館" width="400" /></td>
 </tr>
 <tr>
-<td style="text-align:center;">郭常喜兵器博物館</td>
+<td style="text-align:center;">郭常喜兵器博物館(圖形取自網路)</td>
 </tr>
 </table>
 
@@ -277,13 +277,31 @@
 
 政府曾經在茄萣區的興達港有過不少的投資，而這些投資反映了不同時期的國家整體規劃，而非單獨針對茄萣地區本身的規劃。
 
-<img src="images/government_01.png" alt="興達港的基地面積" width="400">
+<table>
+<tr>
+<td><img src="images/government_01.png" alt="興達港的基地面積" width="400"></td>
+</tr>
+<tr>
+<td style="text-align:center;">興達港的基地面積(圖形取自網路)</td>
+</tr>
+</table>
+
+
 
 從最開始的興達港遠洋漁港計畫，政府投注了約七十幾億的資金，但是完工後並沒有太多漁船進駐，原先規劃的遊艇產業專區也沒有順利的被推動。後來，縣政府斥資十億建造了情人碼頭，想要將港區開發成觀光休憩的景點，不過目前人氣也有待提升。
 
 興達港接下來的規劃，應該是進行「前瞻基礎建設計畫」中的離岸風力發電的建設的部分。關於這一部分的規劃，網路上有許多不同的聲音。目前看不出它對茄萣區居民的影響。
 
-<img src="images/government_02.png" alt="興達港海洋觀光遊艇城發展願景" width="400">
+<table>
+<tr>
+<td><img src="images/government_02.png" alt="興達港海洋觀光遊艇城發展願景" width="400"></td>
+</tr>
+<tr>
+<td style="text-align:center;">興達港海洋觀光遊艇城發展願景(圖形取自網路)</td>
+</tr>
+</table>
+
+
 
 在茄萣區的發展上，過去跟未來的政府計畫看起來都沒有對茄萣區本身的發展有明顯的助益。
 

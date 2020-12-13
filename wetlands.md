@@ -62,7 +62,7 @@
 <td><img src="images/wetlands_03.jpg" alt="茄萣濕地 1-4 號道路爭議"/></td>
 </tr>
 <tr>
-<td style="text-align:left;">圖四、茄萣濕地 1-4 號道路爭議。1-4號道路會畫過茄萣濕地，切斷水源供給，讓整個溼地更加破碎化。</td>
+<td style="text-align:left;">圖四、茄萣濕地 1-4 號道路爭議。1-4號道路會畫過茄萣濕地，切斷水源供給，讓整個溼地更加破碎化。(圖形取自網路)</td>
 </tr>
 </table>
 
